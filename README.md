@@ -21,7 +21,7 @@ To build Domila from source, you need:
 
 Check out the Domila source with
 
-	$git clone git://github.com/jrmcauliffe/prototype.git
+	$git clone git://github.com/jrmcauliffe/domila.git
 	$cd domila
 
 Copy the file `Notes.jar` to the `lib/` directory
